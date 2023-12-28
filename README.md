@@ -1,2 +1,2 @@
-# Chatterbox-IOS
+# Chatterbox-ios
 Chatterbox for ios
